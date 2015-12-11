@@ -1,3 +1,6 @@
+
+App Hackathon repository: https://github.com/PMCSmartCity/apphackathon-Dec-2015
+
 Instruction for using the repository
 ====================================
 a. LOCATION FOLDER: If you are participating from Zensar campus, your folders should be created under the top level directory Location_Zensar. Similarly, if you are participating from AMDOCS or Infosys campus, your folders should be created under the top level directory Location_AMDOCS or Location_Infosys respectively. These folders are created, you should use those.
